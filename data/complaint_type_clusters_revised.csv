@@ -1,0 +1,124 @@
+complaint_type,cluster,n_requests,top_agency,top_descriptor,cluster_final
+HEAT/HOT WATER,Housing & Building Conditions,352,HPD,ENTIRE BUILDING,Housing & Building Conditions
+UNSANITARY CONDITION,Housing & Building Conditions,172,HPD,PESTS,Housing & Building Conditions
+PLUMBING,Housing & Building Conditions,100,HPD,BASIN/SINK,Housing & Building Conditions
+PAINT/PLASTER,Housing & Building Conditions,75,HPD,WALL,Housing & Building Conditions
+DOOR/WINDOW,Housing & Building Conditions,62,HPD,DOOR,Housing & Building Conditions
+WATER LEAK,Housing & Building Conditions,49,HPD,HEAVY FLOW,Housing & Building Conditions
+General Construction/Plumbing,Housing & Building Conditions,48,DOB,Building Permit - None,Housing & Building Conditions
+GENERAL,Housing & Building Conditions,43,HPD,CABINET,Housing & Building Conditions
+FLOORING/STAIRS,Housing & Building Conditions,41,HPD,FLOOR,Housing & Building Conditions
+Elevator,Housing & Building Conditions,38,DOB,Elevator - Single Device On Property/No Alternate Service,Housing & Building Conditions
+ELECTRIC,Housing & Building Conditions,34,HPD,POWER OUTAGE,Housing & Building Conditions
+APPLIANCE,Housing & Building Conditions,30,HPD,REFRIGERATOR,Housing & Building Conditions
+Building/Use,Housing & Building Conditions,30,DOB,Illegal Conversion Of Residential Building/Space,Housing & Building Conditions
+SAFETY,Housing & Building Conditions,15,HPD,CARBON MONOXIDE DETECTOR,Housing & Building Conditions
+Special Projects Inspection Team (SPIT),Housing & Building Conditions,11,DOB,Illegal Hotel Rooms In Residential Building,Housing & Building Conditions
+Real Time Enforcement,Housing & Building Conditions,10,DOB,Work Without A Permit - Occupied Multiple Dwelling,Housing & Building Conditions
+Indoor Air Quality,Housing & Building Conditions,10,DOHMH,Chemical Vapors/Gases/Odors,Housing & Building Conditions
+Emergency Response Team (ERT),Housing & Building Conditions,3,DOB,After Hours Work - Illegal,Housing & Building Conditions
+Boilers,Housing & Building Conditions,3,DOB,Boiler - Defective/Inoperative/No Permit,Housing & Building Conditions
+Plumbing,Housing & Building Conditions,3,DOB,Failure To Retain Water/Improper Drainage- (LL103/89),Housing & Building Conditions
+Construction Lead Dust,Housing & Building Conditions,3,DOHMH,In Common Areas,Housing & Building Conditions
+Mold,Housing & Building Conditions,2,DOHMH,Public Complaint - Comm Location,Housing & Building Conditions
+OUTSIDE BUILDING,Housing & Building Conditions,1,HPD,ROOFING,Housing & Building Conditions
+ELEVATOR,Housing & Building Conditions,1,HPD,MAINTENANCE,Housing & Building Conditions
+Electrical,Housing & Building Conditions,1,DOB,Electrical Wiring Defective/Exposed,Housing & Building Conditions
+Cranes and Derricks,Housing & Building Conditions,1,DOB,Crane/Suspension Scaffold - No Permit/License/Cert./Unsafe/Illegal,Housing & Building Conditions
+Indoor Sewage,Housing & Building Conditions,1,DOHMH,Sewage Leak,Housing & Building Conditions
+School Maintenance,Housing & Building Conditions,1,DOE,Unclean Condition,Housing & Building Conditions
+Noise - Residential,Noise,587,NYPD,Loud Music/Party,Noise
+Noise - Street/Sidewalk,Noise,271,NYPD,Loud Music/Party,Noise
+Noise - Commercial,Noise,86,NYPD,Loud Music/Party,Noise
+Noise - Vehicle,Noise,64,NYPD,Car/Truck Music,Noise
+Noise,Noise,60,DEP,Noise: Construction Before/After Hours (NM1),Noise
+Noise - Helicopter,Noise,41,EDC,Other,Noise
+Noise - Park,Noise,12,NYPD,Loud Music/Party,Noise
+Noise - House of Worship,Noise,1,NYPD,Loud Talking,Noise
+Damaged Tree,"Parks, Trees & Green Space",53,DPR,Branch or Limb Has Fallen Down,"Parks, Trees & Green Space"
+Maintenance or Facility,"Parks, Trees & Green Space",34,DPR,Structure - Outdoors,"Parks, Trees & Green Space"
+Overgrown Tree/Branches,"Parks, Trees & Green Space",29,DPR,Blocking Street,"Parks, Trees & Green Space"
+Dead/Dying Tree,"Parks, Trees & Green Space",16,DPR,Planted More Than 2 Years Ago,"Parks, Trees & Green Space"
+Root/Sewer/Sidewalk Condition,"Parks, Trees & Green Space",16,DPR,Trees and Sidewalks Program,Public Health & Consumer Protection
+New Tree Request,"Parks, Trees & Green Space",13,DPR,For One Address,"Parks, Trees & Green Space"
+Animal in a Park,"Parks, Trees & Green Space",11,DPR,Dog Off Leash,"Parks, Trees & Green Space"
+Illegal Tree Damage,"Parks, Trees & Green Space",8,DPR,Bicycle Chained to Tree,"Parks, Trees & Green Space"
+Violation of Park Rules,"Parks, Trees & Green Space",7,DPR,BBQ Outside Authorized Area,"Parks, Trees & Green Space"
+Wood Pile Remaining,"Parks, Trees & Green Space",2,DPR,Remove Debris,"Parks, Trees & Green Space"
+Uprooted Stump,"Parks, Trees & Green Space",1,DPR,Remove Stump,"Parks, Trees & Green Space"
+Vendor Enforcement,Public Health & Consumer Protection,42,DSNY,Food Vendor,Public Health & Consumer Protection
+Rodent,Public Health & Consumer Protection,34,DOHMH,Rat Sighting,Public Health & Consumer Protection
+For Hire Vehicle Complaint,Public Health & Consumer Protection,32,TLC,Driver Complaint - Non Passenger,Streets & Public Infrastructure
+Consumer Complaint,Public Health & Consumer Protection,28,DCWP,Tow Truck Company,Public Health & Consumer Protection
+Food Establishment,Public Health & Consumer Protection,14,DOHMH,Pet/Animal,Public Health & Consumer Protection
+Taxi Complaint,Public Health & Consumer Protection,12,TLC,Driver Complaint - Passenger,Public Health & Consumer Protection
+Mobile Food Vendor,Public Health & Consumer Protection,11,DOHMH,Equipment,Public Health & Consumer Protection
+Lost Property,Public Health & Consumer Protection,10,TLC,Bag/Wallet,Public Health & Consumer Protection
+Smoking or Vaping,Public Health & Consumer Protection,9,DOHMH,Allowed in Smoke Free Area,Public Health & Consumer Protection
+Food Poisoning,Public Health & Consumer Protection,7,DOHMH,1 or 2,Public Health & Consumer Protection
+Standing Water,Public Health & Consumer Protection,4,DOHMH,Basement,Public Health & Consumer Protection
+Day Care,Public Health & Consumer Protection,3,DOHMH,Day Care Facility,Public Health & Consumer Protection
+Unsanitary Animal Pvt Property,Public Health & Consumer Protection,3,DOHMH,Other Animal,Public Health & Consumer Protection
+Unleashed Dog,Public Health & Consumer Protection,2,DOHMH,Unleashed Dog in Public,Public Health & Consumer Protection
+Harboring Bees/Wasps,Public Health & Consumer Protection,2,DOHMH,Bees/Wasps - Not a beekeper,Public Health & Consumer Protection
+Taxi Report,Public Health & Consumer Protection,2,TLC,Driver Report - Non Passenger,Public Health & Consumer Protection
+For Hire Vehicle Report,Public Health & Consumer Protection,2,TLC,Car Service Company Report,Public Health & Consumer Protection
+Unsanitary Pigeon Condition,Public Health & Consumer Protection,1,DOHMH,Pigeon Waste,Public Health & Consumer Protection
+Illegal Animal Kept as Pet,Public Health & Consumer Protection,1,DOHMH,Rooster,Public Health & Consumer Protection
+Pet Sale,Public Health & Consumer Protection,1,DOHMH,Dog Sold,Public Health & Consumer Protection
+Encampment,Public Safety & Homelessness,51,NYPD,,Public Safety & Homelessness
+Homeless Person Assistance,Public Safety & Homelessness,46,DHS,Non-Chronic,Public Safety & Homelessness
+Drug Activity,Public Safety & Homelessness,38,NYPD,Use Outside,Public Safety & Homelessness
+Non-Emergency Police Matter,Public Safety & Homelessness,37,NYPD,Other (complaint details),Public Safety & Homelessness
+Panhandling,Public Safety & Homelessness,13,NYPD,,Public Safety & Homelessness
+Illegal Fireworks,Public Safety & Homelessness,11,NYPD,,Public Safety & Homelessness
+Animal-Abuse,Public Safety & Homelessness,11,NYPD,Neglected,Public Safety & Homelessness
+Drinking,Public Safety & Homelessness,7,NYPD,In Public,Public Safety & Homelessness
+Dirty Condition,Sanitation & Waste,78,DSNY,Trash,Sanitation & Waste
+Illegal Dumping,Sanitation & Waste,59,DSNY,Removal Request,Sanitation & Waste
+Missed Collection,Sanitation & Waste,49,DSNY,Trash,Sanitation & Waste
+Graffiti,Sanitation & Waste,30,DSNY,Graffiti,Sanitation & Waste
+Residential Disposal Complaint,Sanitation & Waste,21,DSNY,Trash or Recycling Not Secure,Sanitation & Waste
+Obstruction,Sanitation & Waste,20,DSNY,Trash or Recycling,Sanitation & Waste
+Dead Animal,Sanitation & Waste,11,DSNY,Cat,Sanitation & Waste
+Street Sweeping Complaint,Sanitation & Waste,8,DSNY,Inadequate Sweeping,Sanitation & Waste
+Sanitation Worker or Vehicle Complaint,Sanitation & Waste,7,DSNY,Inappropriate Behavior,Sanitation & Waste
+Illegal Posting,Sanitation & Waste,5,DSNY,Sticker or Decal,Sanitation & Waste
+Lot Condition,Sanitation & Waste,4,DSNY,Trash,Sanitation & Waste
+Snow or Ice,Sanitation & Waste,4,DSNY,Sidewalk,Sanitation & Waste
+Litter Basket Request,Sanitation & Waste,2,DSNY,New Basket,Sanitation & Waste
+Dumpster Complaint,Sanitation & Waste,2,DSNY,Blocking Sidewalk or Street,Sanitation & Waste
+Litter Basket Complaint,Sanitation & Waste,1,DSNY,Overflowing,Sanitation & Waste
+Seasonal Collection,Sanitation & Waste,1,DSNY,Christmas Tree,Sanitation & Waste
+Street Condition,Streets & Public Infrastructure,95,DOT,Pothole,Streets & Public Infrastructure
+Street Light Condition,Streets & Public Infrastructure,55,DOT,Street Light Out,Streets & Public Infrastructure
+Traffic Signal Condition,Streets & Public Infrastructure,52,DOT,Controller,Streets & Public Infrastructure
+Sidewalk Condition,Streets & Public Infrastructure,30,DOT,Sidewalk Violation,Streets & Public Infrastructure
+Curb Condition,Streets & Public Infrastructure,17,DOT,Defacement,Streets & Public Infrastructure
+Street Sign - Damaged,Streets & Public Infrastructure,14,DOT,Other/Unknown,Streets & Public Infrastructure
+Street Sign - Missing,Streets & Public Infrastructure,7,DOT,Stop,Streets & Public Infrastructure
+Street Sign - Dangling,Streets & Public Infrastructure,6,DOT,"No Parking, Standing, Stopping",Streets & Public Infrastructure
+Highway Condition,Streets & Public Infrastructure,6,DOT,Pothole - Highway,Streets & Public Infrastructure
+Outdoor Dining,Streets & Public Infrastructure,6,DOT,Sidewalk Zone Blocked,Streets & Public Infrastructure
+Highway Sign - Damaged,Streets & Public Infrastructure,1,DOT,Exit/Route,Streets & Public Infrastructure
+Bus Stop Shelter Complaint,Streets & Public Infrastructure,1,DOT,Broken Glass,Streets & Public Infrastructure
+Broken Parking Meter,Streets & Public Infrastructure,1,DOT,Coin or Card Did Not Register,Streets & Public Infrastructure
+Public Toilet,Streets & Public Infrastructure,1,DOT,Damaged Other,Streets & Public Infrastructure
+Illegal Parking,"Traffic, Parking & Vehicles",774,NYPD,Blocked Hydrant,"Traffic, Parking & Vehicles"
+Blocked Driveway,"Traffic, Parking & Vehicles",221,NYPD,No Access,"Traffic, Parking & Vehicles"
+Abandoned Vehicle,"Traffic, Parking & Vehicles",87,NYPD,With License Plate,"Traffic, Parking & Vehicles"
+Derelict Vehicles,"Traffic, Parking & Vehicles",69,DSNY,Derelict Vehicles,"Traffic, Parking & Vehicles"
+Traffic,"Traffic, Parking & Vehicles",19,NYPD,Drag Racing,"Traffic, Parking & Vehicles"
+Abandoned Bike,"Traffic, Parking & Vehicles",4,DSNY,Chained to Public Property,"Traffic, Parking & Vehicles"
+Bike/Roller/Skate Chronic,"Traffic, Parking & Vehicles",3,NYPD,,"Traffic, Parking & Vehicles"
+Bike/Roller/Skate,"Traffic, Parking & Vehicles",1,NYPD,,"Traffic, Parking & Vehicles"
+E-Scooter,"Traffic, Parking & Vehicles",1,DOT,Improperly Parked or Abandoned,"Traffic, Parking & Vehicles"
+Water System,"Water, Sewer & Environmental Hazards",89,DEP,Hydrant Running Full (WA4),"Water, Sewer & Environmental Hazards"
+Sewer,"Water, Sewer & Environmental Hazards",33,DEP,Catch Basin Clogged/Flooding (Use Comments) (SC),"Water, Sewer & Environmental Hazards"
+Air Quality,"Water, Sewer & Environmental Hazards",19,DEP,"Air: Odor/Fumes, Vehicle Idling (AD3)","Water, Sewer & Environmental Hazards"
+Lead,"Water, Sewer & Environmental Hazards",17,DEP,Lead Kit Request (Residential) (L10),"Water, Sewer & Environmental Hazards"
+Water Conservation,"Water, Sewer & Environmental Hazards",4,DEP,Illegal Use Of A Hydrant (CIN),"Water, Sewer & Environmental Hazards"
+Hazardous Materials,"Water, Sewer & Environmental Hazards",2,DEP,Chemical Odor (HD1),"Water, Sewer & Environmental Hazards"
+Water Quality,"Water, Sewer & Environmental Hazards",1,DEP,"Taste/Odor, Sewer (QA5)","Water, Sewer & Environmental Hazards"
+Drinking Water,"Water, Sewer & Environmental Hazards",1,DOHMH,Illness Caused by Drinking Water,"Water, Sewer & Environmental Hazards"
+Oil or Gas Spill,"Water, Sewer & Environmental Hazards",1,DSNY,Emergency Personnel Report,"Water, Sewer & Environmental Hazards"
